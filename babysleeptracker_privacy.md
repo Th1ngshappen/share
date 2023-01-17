@@ -61,4 +61,4 @@ Baby Sleep Tracker был создан как бесплатное прилож�
 
 Если у вас есть какие-либо вопросы или предложения по поводу моей политики конфиденциальности, не стесняйтесь обращаться ко мне по адресу mulledwineapps@yandex.ru .
 
-Эта страница политики конфиденциальности была создана по [адресу](https://github.com/Th1ngshappen/share/blob/main/babysleeptracker_privacy.md)) и изменена / сгенерирована [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+Эта страница политики конфиденциальности была создана по [адресу](https://github.com/Th1ngshappen/share/blob/main/babysleeptracker_privacy.md) и изменена / сгенерирована [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
