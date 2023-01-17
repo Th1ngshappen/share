@@ -15,10 +15,9 @@ Baby Sleep Tracker был создан как бесплатное прилож�
 
 Ссылка на политику конфиденциальности сторонних поставщиков услуг, используемых приложением
 
-Сервисы Google Play
-Google Analytics для Firebase
-Crashlytics на базе Firebase
-						   
+*   [Google Play Services](https://www.google.com/policies/privacy/)
+*   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
+*   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)					   
 
 ## Данные журнала
 
