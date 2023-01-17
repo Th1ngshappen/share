@@ -62,4 +62,4 @@ Crashlytics на базе Firebase
 
 Если у вас есть какие-либо вопросы или предложения по поводу моей политики конфиденциальности, не стесняйтесь обращаться ко мне по адресу mulledwineapps@yandex.ru .
 
-Эта страница политики конфиденциальности была создана по адресу privacypolicytemplate.net и измененный / сгенерированный генератором политики конфиденциальности приложения
+Эта страница политики конфиденциальности была создана по адресу [privacypolicytemplate.net](https://privacypolicytemplate.net) и изменена / сгенерирована [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
